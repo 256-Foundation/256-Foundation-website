@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 3
+date: 2024-02-06
+img: grants-1.png
+alt: image-alt
+project-date: 2024
+category: Grants
+description: <p><h3>Available Grants</h3></p><p>This is where you find our available grants and instructions on how to apply.</p><p>"insert grant 1"</p><p>"insert grant 2"</p><p>"insert grant 3"</p><p><h3>Past Projects</h3><p>This is where you will find information on previous grant projects and the accomplishments made</p><p>"insert FOSS project A"</p><p>"insert FOSS project B"</p><p>"insert FOSS project C"</p>
+---

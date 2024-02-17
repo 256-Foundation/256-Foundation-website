@@ -6,5 +6,5 @@ img: pod256-1.png
 alt: image-alt
 project-date: January 2023 - Current
 category: Bitcoin Mining Podcast
-description: A weekly podcast focused on Bitcoin mining and energy. Hosted by <a href="https://twitter.com/bitkite"><font color="organge">Rod</font></a> and <a href="https://twitter.com/econoalchemist"><font color="orange">econoalchemist</font></a>. You can find all the Pod256 episodes <a href="https://podcastindex.org/podcast/5876654"><font color="orange">here</font></a>.
+description: A weekly podcast focused on Bitcoin mining and energy. Hosted by <a href="https://twitter.com/bitkite" target="_blank" rel="noopener noreferrer"><font color="orange">Rod</font></a> and <a href="https://twitter.com/econoalchemist" target="_blank" rel="noopener noreferrer"><font color="orange">econoalchemist</font></a>. You can find all the Pod256 episodes <a href="https://podcastindex.org/podcast/5876654" target="_blank" rel="noopener noreferrer"><font color="orange">here</font></a>.
 ---

@@ -2,6 +2,34 @@
 
 2) Pick your favorite and geographically closest mining pool URL:
 
+- Braiins Global = stratum+tcp://stratum.braiins.com:3333
+- Braiins Global sv2 = stratum2+tcp://v2.stratum.braiins.com/u95GEReVMjK6k5YqiSFNqqTnKU4ypU2Wm8awa6tmbmDmk1bWt
+- Braiins Europe = stratum+tcp://eu.stratum.braiins.com:3333
+- Braiins Europe sv2 = stratum2+tcp://v2.eu.stratum.braiins.com/u95GEReVMjK6k5YqiSFNqqTnKU4ypU2Wm8awa6tmbmDmk1bWt
+- Braiins USA = stratum+tcp://us-east.stratum.braiins.com:3333
+- Braiins USA sv2 = stratum2+tcp://v2.us-east.stratum.braiins.com/u95GEReVMjK6k5YqiSFNqqTnKU4ypU2Wm8awa6tmbmDmk1bWt
+- Braiins Canada = stratum+tcp://ca.stratum.braiins.com:3333
+- Braiins Canada sv2 = stratum2+tcp://v2.ca.stratum.braiins.com/u95GEReVMjK6k5YqiSFNqqTnKU4ypU2Wm8awa6tmbmDmk1bWt
+- Braiins South America = stratum+tcp://br.stratum.braiins.com:3333
+- Braiins South America sv2 = stratum2+tcp://v2.br.stratum.braiins.com/u95GEReVMjK6k5YqiSFNqqTnKU4ypU2Wm8awa6tmbmDmk1bWt
+- Braiins Asia = stratum+tcp://sg.stratum.braiins.com:3333
+- Braiins Asia sv2 = stratum2+tcp://v2.sg.stratum.braiins.com/u95GEReVMjK6k5YqiSFNqqTnKU4ypU2Wm8awa6tmbmDmk1bWt
+- Braiins Russia = stratum+tcp://ru-west.stratum.braiins.com:3333
+- Braiins Russia sv2 = stratum2+tcp://v2.ru-west.stratum.braiins.com/u95GEReVMjK6k5YqiSFNqqTnKU4ypU2Wm8awa6tmbmDmk1bWt
+
+- BTC.com North America 1 = us.ss.btc.com:1800
+- BTC.com North America 2 = us.ss.btc.com:443
+- BTC.com North America 3 = us.ss.btc.com:3333
+
+- F2pool Global = stratum+tcp://btc.f2pool.com:1314
+- F2pool North America = stratum+tcp://btc.f2pool.com:1314
+- F2pool Asia = stratum+tcp://btc-asia.f2pool.com:1314
+- F2pool Europe = stratum+tcp://btc-euro.f2pool.com:1314
+- F2pool Africa = stratum+tcp://btc-africa.f2pool.com:1314
+- F2pool Latin America = stratum+tcp://btc-latin.f2pool.com:1314
+
+- Kano Pool = stratum+tcp://stratum.kano.is:3333
+
 - Lincoin North America = stratum+tcp://NA.lincoin.com:3333
 - Lincoin Europe = stratum+tcp://EU.lincoin.com:3333
 - Lincoin Latin America = stratum+tcp://LatAm.lincoin.com:3333
@@ -10,15 +38,33 @@
 - Lincoin Oceania = stratum+tcp://OC.lincoin.com:3333
 - Lincoin Africa = stratum+tcp://Africa.lincoin.com:3333
 
+- Luxor Global = stratum+tcp://btc.global.luxor.tech:700
+
+- Spider Pool USA = stratum+tcp://btc-us.spiderpool.com:2309
+- Spider Pool Asia = stratum+tcp://btc-as.spiderpool.com:2309
+- Spider Pool Europe = stratum+tcp://btc-eu.spiderpool.com:2309
+
+- Ultimus Pool = stratum+tcp://bs.ultimuspool.com:8888
+
+- ViaBTC Pool 1 = stratum+tcp://btc.viabtc.io:3333
+- ViaBTC Pool 2 = stratum+tcp://btc.viabtc.io:25
+- ViaBTC Pool 3 = stratum+tcp://btc.viabtc.io:443
+
 - Wilson North America = stratum+tcp://uspool.wilsonmining.io:3333
 - Wilson Europe = stratum+tcp://eupool.wilsonmining.io:3333
 - Wilson Asia = stratum+tcp://asiapool.wilsonmining.io:3333
 
 3) Then use "pod256" as the worker name, appended with ".YourAlias" so we can give you a shout out.
 
-Alternatively, use our Bitcoin address (bc1qce93hy5rhg02s6aeu7mfdvxg76x66pqqtrvzs3) appended with ".YourAlias" on any of the following pool URLs:
+Alternatively, use our Bitcoin address "bc1qce93hy5rhg02s6aeu7mfdvxg76x66pqqtrvzs3" appended with ".YourAlias" on any of the following pool URLs:
 
+OCEAN Knots Default = mine.ocean.xyz:3334
+OCEAN Ordisrespector = ordis.mine.ocean.xyz:3303
+OCEAN BitcoinCore Default = core.mine.ocean.xyz:3202
+OCEAN Data Free = datafree.mine.ocean.xyz:3404
 Public Pool = stratum+tcp://public-pool.io:21496
 Solo CK Pool = solo.ckpool.org:3333
+
+If any pool wants you to use a password in your miner configuration settings, just use "x".
 
 4) Restart your miner. 

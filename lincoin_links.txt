@@ -1,7 +1,0 @@
-North America = stratum+tcp://NA.lincoin.com:3333
-Europe = stratum+tcp://EU.lincoin.com:3333
-Latin America = stratum+tcp://LatAm.lincoin.com:3333
-Eurasia = stratum+tcp://CIS.lincoin.com:3333
-Asia = stratum+tcp://Asia.lincoin.com:3333
-Oceania = stratum+tcp://OC.lincoin.com:3333
-Africa = stratum+tcp://Africa.lincoin.com:3333

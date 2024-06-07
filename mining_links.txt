@@ -1,6 +1,6 @@
 1) Login to your miner's configuration settings.
 
-2) Pick your favorite and geographically closest mining pool URL:
+2) Pick your favorite and geographically closest mining pool URL from the list below, these are the pools Pod256 has an account with:
 
 - Braiins Global = stratum+tcp://stratum.braiins.com:3333
 - Braiins Global sv2 = stratum2+tcp://v2.stratum.braiins.com/u95GEReVMjK6k5YqiSFNqqTnKU4ypU2Wm8awa6tmbmDmk1bWt
@@ -28,8 +28,6 @@
 - F2pool Africa = stratum+tcp://btc-africa.f2pool.com:1314
 - F2pool Latin America = stratum+tcp://btc-latin.f2pool.com:1314
 
-- Kano Pool = stratum+tcp://stratum.kano.is:3333
-
 - Lincoin North America = stratum+tcp://NA.lincoin.com:3333
 - Lincoin Europe = stratum+tcp://EU.lincoin.com:3333
 - Lincoin Latin America = stratum+tcp://LatAm.lincoin.com:3333
@@ -56,7 +54,7 @@
 
 3) Then use "pod256" as the worker name, appended with ".YourAlias" so we can give you a shout out.
 
-Alternatively, use our Bitcoin address "bc1qce93hy5rhg02s6aeu7mfdvxg76x66pqqtrvzs3" appended with ".YourAlias" on any of the following pool URLs:
+Alternatively, use the Pod256 Bitcoin address "bc1qce93hy5rhg02s6aeu7mfdvxg76x66pqqtrvzs3" appended with ".YourAlias" on any of the following pool URLs:
 
 OCEAN Knots Default = mine.ocean.xyz:3334
 OCEAN Ordisrespector = ordis.mine.ocean.xyz:3303
@@ -64,7 +62,5 @@ OCEAN BitcoinCore Default = core.mine.ocean.xyz:3202
 OCEAN Data Free = datafree.mine.ocean.xyz:3404
 Public Pool = stratum+tcp://public-pool.io:21496
 Solo CK Pool = solo.ckpool.org:3333
-
-If any pool wants you to use a password in your miner configuration settings, just use "x".
 
 4) Restart your miner. 

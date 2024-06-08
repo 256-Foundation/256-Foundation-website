@@ -54,7 +54,7 @@
 
 3) Then use "pod256" as the worker name, appended with ".YourAlias" so we can give you a shout out.
 
-Alternatively, use the Pod256 Bitcoin address "bc1q2jdykpe5zs4afzsdudusk89skzyrn0mspqtzlw" appended with ".YourAlias" on any of the following pool URLs:
+Alternatively, use the Pod256 Bitcoin address "bc1qce93hy5rhg02s6aeu7mfdvxg76x66pqqtrvzs3" appended with ".YourAlias" on any of the following pool URLs:
 
 - DEMAND Pool Solo sv1 = mining.dmnd.work:1000
 - DEMAND Pool Solo sv2 = mining.dmnd.work:2000 

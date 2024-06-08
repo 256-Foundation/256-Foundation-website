@@ -28,6 +28,8 @@
 - F2pool Africa = stratum+tcp://btc-africa.f2pool.com:1314
 - F2pool Latin America = stratum+tcp://btc-latin.f2pool.com:1314
 
+- Kano Pool West USA = stratum+tcp://stratum.kano.is:3333
+
 - Lincoin North America = stratum+tcp://NA.lincoin.com:3333
 - Lincoin Europe = stratum+tcp://EU.lincoin.com:3333
 - Lincoin Latin America = stratum+tcp://LatAm.lincoin.com:3333

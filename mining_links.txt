@@ -54,13 +54,18 @@
 
 3) Then use "pod256" as the worker name, appended with ".YourAlias" so we can give you a shout out.
 
-Alternatively, use the Pod256 Bitcoin address "bc1qce93hy5rhg02s6aeu7mfdvxg76x66pqqtrvzs3" appended with ".YourAlias" on any of the following pool URLs:
+Alternatively, use the Pod256 Bitcoin address "bc1q2jdykpe5zs4afzsdudusk89skzyrn0mspqtzlw" appended with ".YourAlias" on any of the following pool URLs:
 
-OCEAN Knots Default = mine.ocean.xyz:3334
-OCEAN Ordisrespector = ordis.mine.ocean.xyz:3303
-OCEAN BitcoinCore Default = core.mine.ocean.xyz:3202
-OCEAN Data Free = datafree.mine.ocean.xyz:3404
-Public Pool = stratum+tcp://public-pool.io:21496
-Solo CK Pool = solo.ckpool.org:3333
+- DEMAND Pool Solo sv1 = mining.dmnd.work:1000
+- DEMAND Pool Solo sv2 = mining.dmnd.work:2000 
+
+- OCEAN Knots Default = mine.ocean.xyz:3334
+- OCEAN Ordisrespector = ordis.mine.ocean.xyz:3303
+- OCEAN BitcoinCore Default = core.mine.ocean.xyz:3202
+- OCEAN Data Free = datafree.mine.ocean.xyz:3404
+
+- Public Pool = stratum+tcp://public-pool.io:21496
+
+- Solo CK Pool = solo.ckpool.org:3333
 
 4) Restart your miner. 

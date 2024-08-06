@@ -6,5 +6,5 @@ img: grants-1.png
 alt: image-alt
 project-date: 2024
 category: Grants
-description: <p><h3>Available Grants</h3></p><p>This is where you find our available grants and instructions on how to apply.</p><p>"insert grant 1"</p><p>"insert grant 2"</p><p>"insert grant 3"</p><p><h3>Past Projects</h3><p>This is where you will find information on previous grant projects and the accomplishments made.</p><p>"insert FOSS project A"</p><p>"insert FOSS project B"</p><p>"insert FOSS project C"</p>
+description: <p><h3>Available Grants</h3></p><p>This is where you find our available grants and instructions on how to apply.</p><p>1) <a href="https://256foundation.org/grants/256-Project-Manager-Proposal.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">256 Foundation Project Manager Grant</font></a></p><p>2) <a href="https://256foundation.org/grants/256-Project-Blockaxe.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">Blockaxe</font></a></p><p>See a grant you're interested in? Apply <a href="https://s9lnsrovpxb.typeform.com/to/M7j8L2SE" target="_blank" rel="noopener noreferrer"><font color="orange">here</font></a>!</p><p><h3>Past Projects</h3><p>This is where you will find information on previous grant projects and the accomplishments made.</p><p>Check back soon!</p>
 ---

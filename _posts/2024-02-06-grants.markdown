@@ -4,7 +4,5 @@ modal-id: 3
 date: 2024-02-06
 img: grants-1.png
 alt: image-alt
-project-date: 2025
-category: Grants
 description: <p><h3>Available Grants</h3></p><p>This is where you find our available grants and instructions on how to apply.</p><p>1) <a href="https://emberone.org" target="_blank" rel="noopener noreferrer"><font color="orange">Ember One Grant Proposal</font></a></p> <p>2) <a href="https://mujina.org" target="_blank" rel="noopener noreferrer"><font color="orange">Mujina Firmware Grant Proposal</font></a></p> <p>3) <a href="https://libreboard.org" target="_blank" rel="noopener noreferrer"><font color="orange">Libre Board Grant Proposal</font></a></p> <p>4) <a href="https://hydrapool.org" target="_blank" rel="noopener noreferrer"><font color="orange">Hydra Pool Grant Proposal</font></a></p> <p>5) <a href="https://blockwatcher.org" target="_blank" rel="noopener noreferrer"><font color="orange">Block Watcher Grant Proposal</font></a></p><p>See a grant you're interested in or want to tell us about an idea you have? Apply <a href="https://s9lnsrovpxb.typeform.com/to/M7j8L2SE" target="_blank" rel="noopener noreferrer"><font color="orange">here</font></a>!</p>
 ---

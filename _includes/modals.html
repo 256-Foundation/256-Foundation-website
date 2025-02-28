@@ -15,9 +15,7 @@
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
-            <a href="/pod256.md" target="_blank" rel="noopener noreferrer"><img src="img/portfolio/pod256-2.png" class="img-responsive img-centered" alt="{{ post.alt }}"></a>
-            <a href="/newsletter.md" target="_blank" rel="noopener noreferrer"><img src="img/portfolio/monthly-newsletter_whiteBG.png" class="img-responsive img-centered" alt="{{ post.alt }}"></a>
-            <a href="/grants.md" target="_blank" rel="noopener noreferrer"><img src="img/portfolio/grants-1.png" class="img-responsive img-centered" alt="{{ post.alt }}"></a>
+         <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}

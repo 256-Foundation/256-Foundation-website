@@ -18,20 +18,41 @@
     <p align="center"><a href="/newsletters/256Foundation-Newsletter-2502_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">February 2025 - Swim At Your Own Risk</font></a></p>
     <p align="center"><a href="/newsletters/256Foundation-Newsletter-2501_v1.pdf" target="_blank" rel="noopener noreferrer"><font color="orange">January 2025 - A Spark of Defiance</font></a></p>
     <br>
-    <form
-  action="https://buttondown.com/api/emails/embed-subscribe/256foundation"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.com/256foundation', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
-  
-  <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.com/refer/256foundation" target="_blank">Powered by Buttondown.</a>
-  </p>
-</form>
+    <section align="center" id="contact">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-7">
+              <h3 align="center">Subscribe Here:</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-7">
+            <form action="https://formspree.io/f/xkndjepy" method="POST" name="sentMessage" id="contactForm" novalidate>
+              <div class="row control-group">
+              </div>
+              <div align="center" class="row control-group">
+                <div class="form-group col-xs-12 floating-label-form-group controls">
+                  <label for="email">Email Address</label>
+                  <input type="email" name="_replyto" class="form-control" placeholder="satoshin@gmx.com" id="email" required data-validation-required-message="Please enter your email address.">
+                  <p class="help-block text-danger">
+                  </p>
+                </div>
+              </div>
+              <div>
+                <input type="hidden" name="_subject" value="New submission!">
+                <input type="text" name="_gotcha" style="display:none" />
+              </div>
+          </div>
+        </div>
+        <div id="success">
+        </div>
+        <div align="center" class="row">
+          <div class="col-lg-7">
+            <button type="submit" class="btn btn-success btn-lg">Send</button>
+          </div>
+        </div>
+       </form>
+      </div>
+     </section>
   </body>
 </html>

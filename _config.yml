@@ -1,11 +1,11 @@
 # Site settings
-title: The 256 Foundation
+title: 256 Foundation
 email: admin@256foundation.org
 url: https://256foundation.org
 description: "A Free Open Source Bitcoin Mining, Energy, & Education Initiative."
 keywords: "Bitcoin, Mining, Energy, Free, Open, Source"
 skills: "<p>A Free Open Source Bitcoin Mining, Energy, & Education Initiative.</p><p>The 256 Foundation is a 501(c)(3) public charity, all donations are tax deductable.</p>"
-meta_author: The 256 Foundation
+meta_author: 256 Foundation
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: The 256 Foundation
+  copyright: 256 Foundation
   location: Tennessee, USA
   social: Social
   faq: FAQ

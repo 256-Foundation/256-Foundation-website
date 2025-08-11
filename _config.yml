@@ -35,7 +35,7 @@ footer:
   copyright: The 256 Foundation
   location: Tennessee, USA
   social: Social
-  credits: Credits
+  faq: FAQ
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ social:
 #  - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com" target="_blank" rel="noopener noreferrer"><font color="orange">Start Bootstrap</font></a>.'
+faq: 'Find answers to common questions <a href="http://256foundation.org/faq.html" target="_blank" rel="noopener noreferrer"><font color="orange">here</font></a>.'
 
 # Build settings
 markdown: kramdown

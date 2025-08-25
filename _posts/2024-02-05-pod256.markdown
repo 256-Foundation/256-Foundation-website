@@ -1,9 +1,0 @@
----
-layout: default
-modal-id: 1
-date: 2024-02-05
-img: pod256-2.png
-alt: image-alt
-project-date: January 2023 - Current
-description: <head><title>POD256</title><script type="text/javascript" async src="https://cdn.podhome.fm/player.min.js"></script></head><center><p align="center"><img src="img/ep52.png" width="500" align="center"></p><h1 align="center">POD256</h1><p align="center">A weekly podcast focused on Bitcoin mining, energy, and freedom tech.</p><p align="center">Hosted by <a href="https://x.com/bitkite" target="_blank" rel="noopener noreferrer"><font color="orange">Rod</font></a>, <a href="https://x.com/BikesandBitcoin" target="_blank" rel="noopener noreferrer"><font color="orange">Rob</font></a>, <a href="https://x.com/skot9000" target="_blank" rel="noopener noreferrer"><font color="orange">Skot</font></a>, & <a href="https://x.com/econoalchemist" target="_blank" rel="noopener noreferrer"><font color="orange">eco</font></a>.</p><br> <h1 align="center">MEDIA</h1><div data-m="false" data-s="c0be02f5-0e88-59a3-84cb-b76041a83264" data-nr="0" data-type="podhome_player" /><p align="center">You can find all the POD256 episodes <a href="https://www.pod256.org/" target="_blank" rel="noopener noreferrer"><font color="orange">here</font></a>.</p><br><h1 align="center">SUPPORT</h1><p align="center">Want to support this awesome podcast? Make a tax deductible donation in bitcoin or fiat <a href="https://pay.zaprite.com/pl_ZRWeSGjRWG" target="_blank" rel="noopener noreferrer"><font color="orange">here</font></a>!</p><p align="center">You can also support POD256 directly and privately with our <a href="https://paynym.rs/+appetizingadministration90" target="_blank" rel="noopener noreferrer"><font color="orange">PayNym</font></a> or support the show with your <a href="https://256foundation.org/mining_links.html" target="_blank" rel="noopener noreferrer"><font color="orange">hashrate</font></a>.</p></center>
----

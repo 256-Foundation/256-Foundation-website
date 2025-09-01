@@ -45,7 +45,7 @@ social:
     url: https://t.me/the256foundation
  # - title: stack-overflow
  #   url: http://stackoverflow.com/questions/tagged/jekyll
-  - <div class="favicon"><i class="fa-light fa-feather"></i></div>
+  - title: nostr
     url: https://primal.net/p/nprofile1qqsqhk42dz0exfcsln4yqmdkjys0nvd7dqndgacpsa7w7pt7njq2uuss2u9cq
   - title: github
     url: https://github.com/256-Foundation
